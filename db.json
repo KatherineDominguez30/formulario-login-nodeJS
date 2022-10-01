@@ -1,0 +1,25 @@
+{
+  "perfil": [
+    {
+      "usuario": "katy",
+      "email": "katy@gmail.com",
+      "password": "1234",
+      "password2": "1234",
+      "id": 1
+    },
+    {
+      "usuario": "yudel",
+      "email": "nelylopez0811@gmail.com",
+      "password": "1234",
+      "password2": "1234",
+      "id": "457878f4-0d37-465e-8f83-8c4f5a71a0c2"
+    },
+    {
+      "usuario": "carmen",
+      "email": "katherinelinet97@gmail.com",
+      "password": "8585",
+      "password2": "8585",
+      "id": "c9b16f8b-0e64-4b05-8750-ef7d53f60eef"
+    }
+  ]
+}
