@@ -20,6 +20,13 @@
       "password": "8585",
       "password2": "8585",
       "id": "c9b16f8b-0e64-4b05-8750-ef7d53f60eef"
+    },
+    {
+      "usuario": "juan carmen",
+      "email": "juanV@hoymail.com",
+      "password": "1234567",
+      "password2": "1234567",
+      "id": "d12c1d5e-19b4-40fb-86bd-d6c80cb19c2c"
     }
   ]
 }
